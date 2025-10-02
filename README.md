@@ -13,7 +13,6 @@ A modern, responsive personal portfolio website built with HTML5, CSS3, and Java
 - **Contact Form** - Functional contact form (frontend validation)
 - **Back-to-Top Button** - Smooth scroll to top functionality
 - **CV Download** - Direct PDF download capability
-- **Bezier Path Animation** - Animated 3D character movement
 
 ### Sections Included
 1. **Hero Section** - Eye-catching introduction with animated text
